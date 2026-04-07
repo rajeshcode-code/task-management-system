@@ -6,7 +6,7 @@ It allows users to **register, log in, and manage their personal tasks (CRUD)** 
 
 ---
 
-## 📌 Objective
+## 📌 Objective 
 
 To build a complete system where users can:
 
